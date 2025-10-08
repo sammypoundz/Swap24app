@@ -1,0 +1,5 @@
+package com.salma.alertdigital
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
